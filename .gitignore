@@ -1,0 +1,45 @@
+# Python specific files and directories
+# Python 관련 파일 및 디렉토리
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment directories
+# 가상 환경 디렉토리
+venv/
+ENV/
+
+# IDE specific files
+# IDE 관련 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific files
+# 프로젝트 관련 파일
+*.csv
+!example.csv
+
+# Operating System specific files
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db 
