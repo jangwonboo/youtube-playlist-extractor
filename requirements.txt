@@ -3,8 +3,20 @@
 
 # Google API Client Library for Python
 # Python용 Google API 클라이언트 라이브러리
-google-api-python-client>=2.0.0
+google-api-python-client
 
 # Pandas for data manipulation and analysis
 # 데이터 조작 및 분석을 위한 Pandas
-pandas>=1.3.0 
+pandas
+
+# Python-dotenv for environment variable management
+# Python-dotenv를 사용한 환경 변수 관리
+python-dotenv
+
+# youtube-transcript-api for fetching video transcripts
+# 동영상 자막을 가져오기 위한 youtube-transcript-api
+youtube-transcript-api
+
+# OpenAI API for generating summaries of transcripts
+# 자막 요약을 생성하기 위한 OpenAI API
+openai

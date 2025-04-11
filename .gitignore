@@ -42,4 +42,9 @@ ENV/
 # Operating System specific files
 # 운영체제 관련 파일
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+.env
+__pycache__/
+*.pyc
+*.csv 
